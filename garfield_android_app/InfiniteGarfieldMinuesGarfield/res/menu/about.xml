@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_rate"
+        android:icon="@drawable/handshake_i"
+        android:orderInCategory="95"
+        android:showAsAction="never"
+        android:title="@string/rate_this_app"/>
+
+</menu>

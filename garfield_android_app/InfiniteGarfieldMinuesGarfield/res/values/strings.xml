@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Infinite Garfield Minus Garfield</string>
+    <string name="title_activity_about">About</string>
+    <string name="what_is_this">What is this?</string>
+    <string name="what_is_this_text">This application generates random, sad, comic strips about empty life of Jon.</string>
+    <string name="how">How?</string>
+    <string name="how_text">Just click on panels to bring up new random one. Remember to share results with friends.</string>
+    <string name="credits">Credits where due:</string>
+    <string name="credits_garfield">Garfield, Paws, Inc.</string>
+    <string name="credits_g_g">G-G by Dan Walsh</string>
+    <string name="credits_icons">iPhone Icons Icon Pack by IconShock</string>
+    <string name="randomize_image">Randomize image</string>
+    <string name="about">About</string>
+    <string name="share_image">Share image</string>
+    <string name="show_in_browser">Show in browser</string>
+    <string name="app_at">by app found at</string>
+    <string name="rate_this_app">Rate this app!</string>
+    <string name="credit_icons_2">Free Mobile Icon Kit by Valera</string>
+    <string name="no_connection">There seems to be no internet connection, try again later please.</string>
+    <string name="no_connection_image">Opps, is internet up?</string>
+    <string name="no_external_storage">Opps, is external storage available?</string>
+    <string name="remind_me_later">Remind me later</string>
+    <string name="no_thanks">No, thanks</string>
+    <string name="rate">"Rate "</string>
+    <string name="rate_blub_start">"If you enjoy using "</string>
+    <string name="rate_blub_end">, please take a moment to rate it. Thanks for your consideration!</string>
+    
+    <string name="ad_unit_id">ca-app-pub-3324367860437365/2982381533</string>
+
+</resources>

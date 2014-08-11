@@ -1,0 +1,28 @@
+* {
+	font-family: Georgia,Times,serif;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 11pt;
+	margin: 0px;
+	padding: 0px;
+}
+
+h1 {text-align:center; width: 501px; margin-left:auto; margin-right:auto; font-size: 22pt; margin-top:0.5em; border-bottom: 1px solid #808080; padding-bottom: 0.5em;}
+img {border: 0px solid; margin-left:auto; margin-right:auto; display:block; margin-top:2em; margin-bottom:2em;}
+p {text-align:center; width: 501px; margin-left:auto; margin-right:auto; margin-top:0.5em; color: #404040;}
+strong {font-weight:bold; color: #000000;}
+p a {font-weight:bold; color: #000000;}
+div {text-align:center; width: 501px; margin-left:auto; margin-right:auto; margin-top:0.5em; font-size: 8pt; color: #808080; border-top: 1px solid #808080; padding-top: 0.5em;}
+div a {font-size: 8pt; color: #404040;}
+h1 em {color: #808080; font-size: 22pt;}
+
+#author {border: 0px none; font-size: 7pt;}
+#author a {font-size: 7pt;}
+#permaLink {display: block; width: 501px; margin-left:auto; margin-right:auto;}
+
+.permalink {display: block; float: right; padding-left: 16px; background-image: url("icon.png"); background-position: left center; background-repeat: no-repeat; font-size: 8pt; color: #404040; margin-top: 0.75em}
+
+#topOfPicture p {width: 300px;}
+#topOfPicture {border: 0px none; margin-top:0px;}

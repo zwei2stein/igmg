@@ -1,0 +1,8 @@
+RewriteEngine on
+RewriteRule ^strip\.(.*)\.(.*).png /strip.php?seed=$1&images=$2 [NC]
+RewriteRule ^strip\.(.*).png /strip.php?seed=$1 [NC]
+RewriteRule ^strip.png /strip.php [NC]
+RewriteRule ^index.html /index.php [NC]
+RewriteRule ^strip\.(.*)\.(.*).html /index.php?seed=$1&images=$2 [NC]
+RewriteRule ^api/getImageIds.json /getImageIds.php [NC]
+RewriteRule ^api/getFlavorText.json /getFlavorText.php [NC]
